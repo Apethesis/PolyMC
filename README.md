@@ -9,6 +9,9 @@ This is a **fork** of the MultiMC Launcher and not endorsed by MultiMC.
 If you want to read about why this fork was created, check out [our FAQ page](https://polymc.org/wiki/overview/faq/).
 <br>
 
+# Notification
+- This is a fork of PolyMC, as the original was compromised i will attempt to remove any malicious things.
+
 # Installation
 
 - All downloads and instructions for PolyMC can be found [here](https://polymc.org/download/)
